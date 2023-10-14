@@ -24,6 +24,13 @@ namespace Generic_tt
                 ds.Enqueue(a);
             }
         }
+        public void xuat()
+        {
+            for (int i = 0; i < ds.Count; i++) 
+            {
+                ds.Dequeue().xuat();
+            }
+        }
         public void check() 
         {
             int l = ds.Count;
