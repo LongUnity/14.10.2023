@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\bin\Debug\Generic_tt.exe.config
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\bin\Debug\Generic_tt.exe
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\bin\Debug\Generic_tt.pdb
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\obj\Debug\Generic_tt.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\obj\Debug\Generic_tt.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\obj\Debug\Generic_tt.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\obj\Debug\Generic_tt.exe
+C:\Users\May1\source\repos\OOP_Buoi11\Generic_tt\obj\Debug\Generic_tt.pdb
